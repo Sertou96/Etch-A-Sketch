@@ -1,8 +1,8 @@
 html,
 body {
   background-image: linear-gradient(rgb(103, 197, 103), rgb(188, 216, 229));
-  height: max-content;
-  width: 100%;
+  height: auto;
+  width: auto;
 }
 
 .main-container {
